@@ -1,0 +1,21 @@
+{
+        "bookId": 1,
+        "bookName": "Huzur",
+        "borrowerName": "Semih Koyu",
+        "borrowerNumber": 523,
+        "authorName": "Ahmet Hamdi Tanpinar"
+    },
+    {
+        "bookId": 2,
+        "bookName": "Sefiller",
+        "borrowerName": "Emre Dindar",
+        "borrowerNumber": 421,
+        "authorName": "Viktor Hugo"
+    },
+    {
+        "bookId": 4,
+        "bookName": "Yaprak Dokumu",
+        "borrowerName": "Enes Þanli",
+        "borrowerNumber": 642,
+        "authorName": "Resat Nuri Guntekin"
+    }
