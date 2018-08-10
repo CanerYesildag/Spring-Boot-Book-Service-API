@@ -10,3 +10,6 @@
 #İntellij idea
 #Mysql Workbench 8.0 CE
 #Postman 
+
+
+#Inputs have to be json format to register Mysql database from Postman.
